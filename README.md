@@ -11,4 +11,4 @@ I am currently open to entry-level opportunities, and collaborative projects in 
 
 ## GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dperezle&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dperezle&layout=compact)
