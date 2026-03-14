@@ -6,6 +6,9 @@ I'm a senior at Arizona State University studying computer science with a focus 
 - **Languages:** C++, C, Python, Java, JavaScript, HTML, CSS
 - **Tools:** Git, Linux
 
+## Open to Work
+I am currently open to entry-level opportunities, and collaborative projects in software development.
+
 ## GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dperezle&show_icons=true)
 
