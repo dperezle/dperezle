@@ -9,4 +9,5 @@ I'm a recent graduate from Arizona State University with a degree in Computer Sc
 ## Open to Work
 I am currently open to entry-level opportunities, and collaborative projects in software development.
 
-## Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Perez%20Lemus-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielperezlemus/)
+## Connect with Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Perez%20Lemus-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielperezlemus/)
