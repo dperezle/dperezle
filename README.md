@@ -4,7 +4,9 @@ I'm a recent graduate from Arizona State University with a degree in Computer Sc
 
 ## Skills
 - **Languages:** C++, C, Python, Java, JavaScript, HTML, CSS
-- **Tools:** Git, Linux
+- **Frameworks:** JavaFX, JUnit
+- **Tools:** Git, GitHub, Linux
+- **Libraries:** D3.js
 
 ## Open to Work
 I am currently open to entry-level opportunities, and collaborative projects in software development.
